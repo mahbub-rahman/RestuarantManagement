@@ -1,6 +1,6 @@
 # Restuarant Management
 This is a model app for online resutuarent management system. 
-User need to register for rating and revview product.
+User need to register for rating and review product.
 *There is an static admin*
 **<br />user: admin@gmail.com**
 **<br />password: password**
